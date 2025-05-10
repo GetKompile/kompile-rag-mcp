@@ -1,0 +1,20 @@
+// src/main/frontend/tsconfig.app.json
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "types": []
+  },
+  "files": [
+    "src/main.ts", // main entry point
+    // and if it's listed in angular.json polyfills array
+  ],
+  "include": [
+    "src/**/*.d.ts", // Keep this for type definitions
+    "src/app/**/*.ts"  // <--- ADD THIS to explicitly include all .ts files in your app folder
+  ],
+  "exclude": [
+    "src/test.ts", // If you have this file for Karma setup
+    "src/**/*.spec.ts" // Exclude unit test files from the main app build
+  ]
+}

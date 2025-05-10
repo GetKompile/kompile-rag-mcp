@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/kompile-app-anserini/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-anserini/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-anthropic-llm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-anthropic-llm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-gemini-llm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-gemini-llm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-loaders-orchestrator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-loaders-orchestrator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-loaders/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-loaders/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-main/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-main/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-openai-llm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-openai-llm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-springai-llm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-app-springai-llm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-embedding-openai/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-embedding-openai/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-embedding-sentence-transformer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-embedding-sentence-transformer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-loader-pdf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-loader-pdf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-loader-tika/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-loader-tika/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-tool-filesystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-tool-filesystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-tool-rag/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-tool-rag/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-vectorstore-chroma/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-vectorstore-chroma/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-vectorstore-pgvector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kompile-vectorstore-pgvector/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
